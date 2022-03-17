@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/bin/Debug/netcoreapp3.1/HometasksCsMethods.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/bin/Debug/netcoreapp3.1/HometasksCsMethods.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/bin/Debug/netcoreapp3.1/HometasksCsMethods.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/bin/Debug/netcoreapp3.1/HometasksCsMethods.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/bin/Debug/netcoreapp3.1/HometasksCsMethods.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsMethods/HometasksCsMethods/obj/Debug/netcoreapp3.1/HometasksCsMethods.genruntimeconfig.cache
